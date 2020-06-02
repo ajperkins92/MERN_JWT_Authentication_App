@@ -1,2 +1,2 @@
-# MERN_JWT_Authentication_App
+# MERN JWT Authentication App
 A MERN-based app template that utilizes JWT for authentication.
